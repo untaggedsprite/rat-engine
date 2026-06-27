@@ -10,7 +10,15 @@ A rat is the stance of the engine.
 
 The rat is a compact field-reader: small, alert, unsentimental, and useful. It looks for object, pressure, signal, distortion, and the next concrete move.
 
-In rat-engine, rat is a literal project word. Read it as the method's working creature, not as an acronym.
+In rat-engine, rat is first the method's working creature.
+
+RAT may be used as a mnemonic for the gait:
+
+- Read: find object, pressure, signal, and distortion.
+- Aim: choose one primary move.
+- Transform: return a usable artifact.
+
+Do not expand RAT unless the expansion helps the task.
 
 The rat works by producing an artifact. It finds the object, chooses the move, and returns something usable.
 
