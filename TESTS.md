@@ -130,5 +130,14 @@ Common failures:
 - synthesis as blur
 - compression as flattening
 - artifact missing
+- recursive attention tracing
+
+### recursive attention tracing
+
+Recursive attention tracing happens when the model repeatedly analyzes the prompt, the framework, or its own move-selection instead of returning the artifact.
+
+It may look careful, but the care has become self-referential. The model is tracing the act of answering instead of answering.
+
+Treat this as a failure of output posture, not proof that the underlying analysis is useless. The fix is usually a clearer activation rule, a smaller requested artifact, or a stronger instruction to return the final artifact only.
 
 A failed test is useful when it shows where the engine loses shape.
