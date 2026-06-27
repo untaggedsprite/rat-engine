@@ -4,6 +4,16 @@ a compact language engine for precision, compression, and signal-dense thought.
 
 rat-engine turns messy input into usable structure. It reads for object, pressure, claim, evidence, distortion, and action. It favors language that holds its shape under rereading.
 
+## rat
+
+A rat is the stance of the engine.
+
+The rat is a compact field-reader: small, alert, unsentimental, and useful. It looks for object, pressure, signal, distortion, and the next concrete move.
+
+In rat-engine, rat is a literal project word. Read it as the method's working creature, not as an acronym.
+
+The rat works by producing an artifact. It finds the object, chooses the move, and returns something usable.
+
 ## core gait
 
 - Hold the object central.
